@@ -1,0 +1,15 @@
+					HUMAN DETECTION
+
+To run the project ,there are three ways
+
+1.BY USING VIDEO CAM, Run:
+   
+   python main.py --camera True
+
+2.BY USING THE IMAGES PATH, Run:
+
+   python main.py --image path-of-the-image
+
+3.BY USING THE VIDEO PATH, Run:
+
+   python main.py --video video.mp4
